@@ -24,7 +24,7 @@ public class PrintStudentDetails {
         s2.setName("Taimur");
         s2.setAge(21);
          Student s3 = new Student(); // s3 - object
-        s3.setName("kiran");
+        s3.setName("hassan");
         s3.setAge(20);
         //store object in array
           list[0] = s1;       
