@@ -21,7 +21,7 @@ public class PrintStudentDetails {
         s1.setName("peter");
         s1.setAge(21);
          Student s2 = new Student(); // s2 - object
-        s2.setName("jasdeep");
+        s2.setName("Taimur");
         s2.setAge(21);
          Student s3 = new Student(); // s3 - object
         s3.setName("kiran");
